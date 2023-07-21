@@ -1,6 +1,4 @@
 # Java-GUI-Clock
-GUI based java digital clock is built by importing swings, awt, awt.event, java.util, java.text 
-
 # Click on A1Test.java file to view full code
 
 # Output demo 
